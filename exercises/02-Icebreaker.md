@@ -20,3 +20,7 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 
 ### Add Your Info Below...
 
+<pre>
+Hello my name is Anuja Verma.
+My favorite quote is "Choose Happy".
+</pre>
